@@ -1,0 +1,815 @@
+fileFormatVersion: 2
+guid: 891590a6744c44ed39a604d51db88933
+timeCreated: 1480581324
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: plant
+    21300002: bird 0
+    21300004: bird 1
+    21300006: poop
+    21300008: Bee 0
+    21300010: Bee 1
+    21300012: Sting
+    21300014: phone 0
+    21300016: phone 1
+    21300018: phone 2
+    21300020: phone 3
+    21300022: phone 4
+    21300024: Blue Star Plane
+    21300026: Fat Man
+    21300028: Little Boy
+    21300030: Red Star Plane
+    21300032: Fake Bomb
+    21300034: Bomb Debris 0
+    21300036: Bomb Debris 1
+    21300038: Bomb Debris 3
+    21300040: Bomb Debris 4
+    21300042: Bomb Debris 5
+    21300044: Bomb Debris 7
+    21300046: Lightning Cloud
+    21300048: Icy Cloud
+    21300050: Red Cloud
+    21300052: Thunder Ball 0
+    21300054: Thunder Ball 1
+    21300056: Thunder Ball 2
+    21300058: Thunder Ball 3
+    21300060: Thunder Ball 4
+    21300062: Thunder Ball 5
+    21300064: Ice Cube
+    21300066: Fire 0
+    21300068: Fire 1
+    21300070: Fire 2
+    21300072: Fire 3
+    21300074: Fire 4
+    21300076: Fire 5
+    21300078: Brick
+    21300080: Bird Die Animation 0
+    21300082: Bird Die Animation 1
+    21300084: Bee Die Animation
+    21300086: Plant Die Animation
+    21300088: Phone Die Animation
+    21300090: Brick Die Animation
+    21300092: Blue Star Plane Die Animation
+    21300094: Lightning Cloud Die Animation
+    21300096: Icy Cloud Die Animation
+    21300098: Red Cloud Die Animation
+    21300100: Hexagon
+    21300102: Hexagon Die
+    21300104: Drop
+    21300106: Drop Die
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: plant
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 924
+        width: 65
+        height: 92
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bird 0
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 927
+        width: 89
+        height: 83
+      alignment: 9
+      pivot: {x: 0.9299421, y: 0.21396793}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: bird 1
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 835
+        width: 86
+        height: 83
+      alignment: 9
+      pivot: {x: 0.9670497, y: 0.19933788}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: poop
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 952
+        width: 27
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Bee 0
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 933
+        width: 104
+        height: 71
+      alignment: 9
+      pivot: {x: 0.9559555, y: 0.27991667}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Bee 1
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 849
+        width: 104
+        height: 73
+      alignment: 9
+      pivot: {x: 0.96102434, y: 0.27543828}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Sting
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 980
+        width: 24
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: phone 0
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 941
+        width: 43
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: phone 1
+      rect:
+        serializedVersion: 2
+        x: 493
+        y: 940
+        width: 43
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: phone 2
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 939
+        width: 43
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: phone 3
+      rect:
+        serializedVersion: 2
+        x: 599
+        y: 938
+        width: 43
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: phone 4
+      rect:
+        serializedVersion: 2
+        x: 652
+        y: 939
+        width: 43
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Blue Star Plane
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 710
+        width: 196
+        height: 107
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Fat Man
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 687
+        width: 60
+        height: 124
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Little Boy
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 688
+        width: 60
+        height: 124
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Red Star Plane
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 568
+        width: 197
+        height: 107
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Fake Bomb
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 531
+        width: 60
+        height: 124
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Bomb Debris 0
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 635
+        width: 36
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Bomb Debris 1
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 615
+        width: 24
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Bomb Debris 3
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 591
+        width: 47
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Bomb Debris 4
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 579
+        width: 27
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Bomb Debris 5
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 561
+        width: 45
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Bomb Debris 7
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 537
+        width: 15
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Lightning Cloud
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 827
+        width: 186
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Icy Cloud
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 720
+        width: 203
+        height: 83
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Red Cloud
+      rect:
+        serializedVersion: 2
+        x: 655
+        y: 787
+        width: 213
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Thunder Ball 0
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 660
+        width: 43
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Thunder Ball 1
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 655
+        width: 43
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Thunder Ball 2
+      rect:
+        serializedVersion: 2
+        x: 614
+        y: 652
+        width: 42
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Thunder Ball 3
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 592
+        width: 45
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Thunder Ball 4
+      rect:
+        serializedVersion: 2
+        x: 538
+        y: 587
+        width: 41
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Thunder Ball 5
+      rect:
+        serializedVersion: 2
+        x: 615
+        y: 587
+        width: 43
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Ice Cube
+      rect:
+        serializedVersion: 2
+        x: 673
+        y: 709
+        width: 63
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Fire 0
+      rect:
+        serializedVersion: 2
+        x: 745
+        y: 686
+        width: 74
+        height: 59
+      alignment: 9
+      pivot: {x: 0.48393455, y: 0.076852575}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Fire 1
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 717
+        width: 73
+        height: 61
+      alignment: 9
+      pivot: {x: 0.4674298, y: 0.1199601}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Fire 2
+      rect:
+        serializedVersion: 2
+        x: 916
+        y: 715
+        width: 79
+        height: 64
+      alignment: 9
+      pivot: {x: 0.45485407, y: 0.10062313}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Fire 3
+      rect:
+        serializedVersion: 2
+        x: 747
+        y: 600
+        width: 83
+        height: 67
+      alignment: 9
+      pivot: {x: 0.4641922, y: 0.08301783}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Fire 4
+      rect:
+        serializedVersion: 2
+        x: 839
+        y: 641
+        width: 82
+        height: 65
+      alignment: 9
+      pivot: {x: 0.42751032, y: 0.0884775}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Fire 5
+      rect:
+        serializedVersion: 2
+        x: 931
+        y: 643
+        width: 75
+        height: 61
+      alignment: 9
+      pivot: {x: 0.4682975, y: 0.051747806}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Brick
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 397
+        width: 108
+        height: 109
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Bird Die Animation 0
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 412
+        width: 89
+        height: 83
+      alignment: 9
+      pivot: {x: 0.92999196, y: 0.19568974}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Bird Die Animation 1
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 320
+        width: 86
+        height: 83
+      alignment: 9
+      pivot: {x: 0.9449917, y: 0.18646902}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Bee Die Animation
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 442
+        width: 104
+        height: 68
+      alignment: 9
+      pivot: {x: 0.9683632, y: 0.28931877}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Plant Die Animation
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 243
+        width: 65
+        height: 97
+      alignment: 9
+      pivot: {x: 0.50000006, y: 0.47809592}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Phone Die Animation
+      rect:
+        serializedVersion: 2
+        x: 714
+        y: 937
+        width: 43
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Brick Die Animation
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 99
+        width: 108
+        height: 109
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Blue Star Plane Die Animation
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 437
+        width: 224
+        height: 101
+      alignment: 9
+      pivot: {x: 0.57113945, y: 0.48948142}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Lightning Cloud Die Animation
+      rect:
+        serializedVersion: 2
+        x: 749
+        y: 494
+        width: 186
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Icy Cloud Die Animation
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 311
+        width: 203
+        height: 83
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Red Cloud Die Animation
+      rect:
+        serializedVersion: 2
+        x: 755
+        y: 342
+        width: 213
+        height: 124
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Hexagon
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 136
+        width: 162
+        height: 144
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Hexagon Die
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 139
+        width: 162
+        height: 143
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Drop
+      rect:
+        serializedVersion: 2
+        x: 601
+        y: 140
+        width: 99
+        height: 137
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Drop Die
+      rect:
+        serializedVersion: 2
+        x: 723
+        y: 131
+        width: 100
+        height: 140
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

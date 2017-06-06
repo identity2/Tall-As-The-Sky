@@ -1,0 +1,20 @@
+fileFormatVersion: 2
+guid: 2d872bc05ea344f7dab35c34180c1e2d
+timeCreated: 1480157694
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - 'Organo (colored version at: logomagazin.com/organo-font)'
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
