@@ -21,4 +21,3 @@ Link to the tutorial article (in Chinese): http://shineright.blogspot.tw/2016/11
 ### Game Download Link
 * iOS App Store: https://itunes.apple.com/us/app/tall-as-the-sky/id1190065264
 * Android Play Store: https://play.google.com/store/apps/details?id=com.ShineRightStudio.TallAsTheSky
-
