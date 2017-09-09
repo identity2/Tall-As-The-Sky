@@ -17,3 +17,7 @@ Android: TallAsTheSky
 **[ver. 2.2] 2017.05.12**
 
 * Added English interface.
+
+**[ver. 2.3] 2017.09.09**
+* Removed "Share", "Visit Dev Blog", "Watch an ad" buttons.
+* Added Admob banner to the game over scene.
