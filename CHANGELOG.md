@@ -21,3 +21,6 @@ Android: TallAsTheSky
 **[ver. 2.3] 2017.09.09**
 * Removed "Share", "Visit Dev Blog", "Watch an ad" buttons.
 * Added Admob banner to the game over scene.
+
+**[ver. 2.3.1 (Android: 8, iOS: 10)] 2018.07.09**
+* Updated to the new Shine Right logo.
