@@ -22,5 +22,8 @@ Android: TallAsTheSky
 * Removed "Share", "Visit Dev Blog", "Watch an ad" buttons.
 * Added Admob banner to the game over scene.
 
-**[ver. 2.3.1 (Android: 8, iOS: 10)] 2018.07.09**
+**[ver. 2.3.1 (Android: 8, iOS: 11)] 2018.07.09**
 * Updated to the new Shine Right logo.
+
+**[ver. 2.3.2 (Android: 9, iOS: 12)] 2019.05.26**
+* Removed Admob banner. It blocked game content.
